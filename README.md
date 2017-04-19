@@ -15,12 +15,12 @@ Spring boot easy 使用的各种示例，以最简单、最实用为标准
 - [spring-boot-web](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web)：web开发综合使用案例
 - [springboot-hadmin](https://github.com/zhengyunfei/springboot-hadmin)：springboot-hadmin（springboot实战开源软件）
 - [spring-boot-web-redis](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web-redis)：spring-boot-web-redis（springboot集成redis,redis缓存和spring cache的集成,thymeleaf模板引擎，boostrap）
-作者与学习乐园
-源码地址：[我的GitHub地址](https://github.com/zhengyunfei/spring-boot-easy)
-作者：贤名
-QQ 群
-springboot-larning-example① 541122375 立即加入 
-
+<br>作者与学习乐园
+<br>源码地址：[我的GitHub地址](https://github.com/zhengyunfei/spring-boot-easy)
+<br>作者：贤名
+<br>QQ 群
+<br>springboot-larning-example① 541122375 立即加入 
+<br>
 
 
 文章可以参考这里
