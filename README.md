@@ -1,10 +1,13 @@
-spring-boot-home
+springboot-learning-example
 ===========
 
-Spring boot easy 使用的各种示例，以最简单、最实用为标准
+springboot-learning-example 使用的各种示例，以最简单、最实用为标准
+===========
 让你轻松入门 零基础学习springboot的好帮手
+===========
+springboot从入门到精通，学习一点一点的积累
 
-
+===========
 - [spring-boot-helloWorld](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
 - [spring-boot-mybaits-annotation](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-mybatis-annotation)：注解版本
 - [spring-boot-mybaits-xml](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-mybatis-xml)：xml配置版本
