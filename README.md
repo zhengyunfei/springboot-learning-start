@@ -13,7 +13,8 @@ Spring boot easy 使用的各种示例，以最简单、最实用为标准
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
 - [spring-boot-scheduler](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
 - [spring-boot-web](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web)：web开发综合使用案例
-- [Favorites-web](https://github.com/zhengyunfei/springboot-hadmin)：springboot-hadmin（springboot实战开源软件）
+- [springboot-hadmin](https://github.com/zhengyunfei/springboot-hadmin)：springboot-hadmin（springboot实战开源软件）
+- [spring-boot-web-redis](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web-redis)：spring-boot-web-redis（springboot集成redis,redis缓存和spring cache的集成,thymeleaf模板引擎，boostrap）
 
 
 
