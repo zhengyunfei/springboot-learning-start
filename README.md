@@ -1,11 +1,11 @@
 springboot-learning-example
 ===========
 
-springboot-learning-example 使用的各种示例，以最简单、最实用为标准
-===========
-让你轻松入门 零基础学习springboot的好帮手
-===========
-springboot从入门到精通，学习一点一点的积累
+springboot-learning-example 使用的各种示例，以最简单、最实用为标准<br>
+
+让你轻松入门 零基础学习springboot的好帮手<br>
+
+springboot从入门到精通，学习一点一点的积累<br>
 
 ===========
 - [spring-boot-helloWorld](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
