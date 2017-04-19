@@ -18,7 +18,7 @@ Spring boot easy 使用的各种示例，以最简单、最实用为标准
 <br>作者与学习乐园
 <br>源码地址：[我的GitHub地址](https://github.com/zhengyunfei/spring-boot-easy)
 <br>作者：贤名
-<br>QQ 群
+<br>QQ 群 技术交流
 <br>springboot-larning-example① 541122375 立即加入 
 <br>
 
