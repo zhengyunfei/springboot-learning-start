@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>angularjs</title>
+    <script src="//cdn.bootcss.com/angular.js/1.5.6/angular.min.js"></script>
+    <script type="text/javascript">
+        var app = angular.module('app', []);
+        app.controller('MainController', function($rootScope, $scope, $http) {
+
+            $scope.data = {
+                no : 'No.1234567890',
+                quantity : 100,
+                'date' : '2016-12-20'
+            };
+
+            $scope.postJson = function() {
+                $http({
+                    url : '/postJson',
+                    method : 'POST',
+                    data : $scope.data
+                }).success(function(r) {
+                    $scope.responseBody = r;
+                });
+
+            }
+        });
+    </script>
+</head>
+<body ng-app="app" ng-controller="MainController">
+no:
+<input id="no" ng-model="data.no" />
+<br /> quantity:
+<input id="quantity" ng-model="data.quantity" />
+<br /> date:
+<input id="date" ng-model="data.date" />
+<br />
+<input value="postJson" type="button" ng-click="postJson()" />
+<br />
+<br />
+<div>{{responseBody}}</div>
+</body>
+</html>

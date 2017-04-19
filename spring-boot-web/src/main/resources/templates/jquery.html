@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>jquery</title>
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        function postData() {
+            var data = 'no=' + $('#no').val() + '&quantity=' + $('#quantity').val()
+                + '&date=' + $('#date').val();
+
+            $.ajax({
+                type : 'POST',
+                url : '/postData',
+                data : data,
+                success : function(r) {
+                    console.log(r);
+                },
+                error : function() {
+                    alert('error!')
+                }
+            });
+        }
+
+        function postJson() {
+            var data = {
+                no : $('#no').val(),
+                quantity : $('#quantity').val(),
+                date : $('#date').val()
+            };
+            $.ajax({
+                type : 'POST',
+                contentType : 'application/json',
+                url : '/postJson',
+                data : JSON.stringify(data),
+                success : function(r) {
+                    console.log(r);
+                },
+                error : function() {
+                    alert('error!')
+                }
+            });
+        }
+        /*]]>*/
+    </script>
+</head>
+<body>
+no:
+<input id="no" value="No.1234567890" />
+<br /> quantity:
+<input id="quantity" value="100" />
+<br /> date:
+<input id="date" value="2016-12-20" />
+<br />
+<input value="postData" type="button" onclick="postData()" />
+<br />
+<input value="postJson" type="button" onclick="postJson()" />
+</body>
+</html>
