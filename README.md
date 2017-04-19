@@ -1,18 +1,19 @@
 spring-boot-home
 ===========
 
-Spring boot使用的各种示例，以最简单、最实用为标准
+Spring boot easy 使用的各种示例，以最简单、最实用为标准
+让你轻松入门 零基础学习springboot的好帮手
 
 
-- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
-- [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-annotation)：注解版本
-- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-xml)：xml配置版本
+- [spring-boot-helloWorld](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
+- [spring-boot-mybaits-annotation](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-mybatis-annotation)：注解版本
+- [spring-boot-mybaits-xml](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-mybatis-xml)：xml配置版本
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
-- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-annotation-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
+- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
-- [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
-- [spring-boot-web](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-web)：web开发综合使用案例
-- [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
+- [spring-boot-scheduler](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
+- [spring-boot-web](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web)：web开发综合使用案例
+- [Favorites-web](https://github.com/zhengyunfei/springboot-hadmin)：springboot-hadmin（springboot实战开源软件）
 
 
 
