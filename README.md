@@ -18,6 +18,7 @@ springboot从入门到精通，学习一点一点的积累<br>
 - [spring-boot-web](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web)：web开发综合使用案例
 - [springboot-hadmin](https://github.com/zhengyunfei/springboot-hadmin)：springboot-hadmin（springboot实战开源软件）
 - [spring-boot-web-redis](https://github.com/zhengyunfei/spring-boot-easy/tree/master/spring-boot-web-redis)：spring-boot-web-redis（springboot集成redis,redis缓存和spring cache的集成,thymeleaf模板引擎，boostrap）
+[springboot-freemarker](https://github.com/zhengyunfei/springboot-learning-start):springboot集成freemarker
 <br>作者与学习乐园
 <br>源码地址：[我的GitHub地址](https://github.com/zhengyunfei/spring-boot-easy)
 <br>作者：贤名
